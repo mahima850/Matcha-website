@@ -12,8 +12,6 @@
 - Beautiful hero section with calming text and CTA
 - Product highlights (matcha lattes, powders, accessories)
 - Wellness benefits of matcha
-- How-to-brew visual steps
-- Social media gallery section
 - Email newsletter subscription (UI only)
 
 ---
@@ -29,24 +27,6 @@ This project is part of my creative sandbox — no APIs, no backend, just pure f
 
 > _(Add screenshots if you want here!)_
 
----
-
-## 📁 Folder Structure
-
-/matcha-site/
-├── index.html
-├── style.css
-├── script.js
-├── /components/
-│ └── App.jsx
-└── /assets/
-└── images, icons, etc.
-
-yaml
-Copy
-Edit
-
----
 
 ## 💡 Future Ideas (Optional)
 
@@ -54,14 +34,9 @@ Edit
 - Deploy with Netlify/Vercel
 - Connect with backend for real checkout
 - Add newsletter integration
+--Add backend functions
 
----
-
-## 🧋 Credits
-
-- Matcha vibes & design inspiration from Pinterest + café culture  
-- Icons via [Bootstrap Icons / Heroicons]  
-- Fonts via Google Fonts  
+   
 - Designed with love 💚
 
 ---
